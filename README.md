@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Programming in general
 - 🌱 I’m currently learning Web Development and Design
 - 💞️ I’m looking to collaborate on Web design and JavaScript-related projects
-- 📫 How to reach me: E-mail: dannysantisimo@gmail.com
+- 📫 How to reach me: E-mail: dev@dannysantino.com
 
 <!---
 DannySantino/DannySantino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
