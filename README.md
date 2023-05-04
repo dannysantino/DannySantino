@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Danny Santino</h1>
-<h3 align="center">A certified software developer with an unhealthy obsession with Eminem's 'Til I Collapse.</h3>
+<h3 align="center">Software Developer | I code, therefore I am</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannysantino&label=Profile%20views&color=0e75b6&style=flat" alt="dannysantino" /> </p>
 
@@ -20,7 +20,7 @@
 
 - 📄 Download my [resume](https://drive.google.com/file/d/1Ux7-6OjL8IbQiH_udrI9N3BdFwmENvLJ/view?usp=share_link)
 
-- ⚡ Fun fact **When Albert Einstein said, "There will come a chosen one who will bring balance to Web Development," he was talking about me.**
+- ⚡ Fun fact: **I completed my first full stack bootcamp in 40 days**
 
 ## Connect with me:
 
