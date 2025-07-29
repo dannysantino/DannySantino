@@ -20,8 +20,6 @@
 
 - 📄 Download my [resume](https://drive.google.com/file/d/1Ux7-6OjL8IbQiH_udrI9N3BdFwmENvLJ/view?usp=share_link)
 
-- ⚡ Fun fact: **I completed my first full stack bootcamp in 40 days**
-
 ## Connect with me:
 
 <p align="left">
